@@ -1,0 +1,304 @@
+Connected
+                                                                 MAIN MENU 
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Visit Employee
+ 2 : Visit Parties
+ 0 : Exit
+ Enter Here ==> 1
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Add New Employee to Record          3 : Input Work Details          5 : Show Work Details           0 : Main Menu
+ 2 : Show Employee List                  4 : Input Employee Pay          6 : Generate Employee Bill
+ Enter Here ==> 1
+ Enter Department Name : Polish
+ Enter Employee Name   : Sourav Kumar
+ Enter production Rs. (per kg or hrs or pc) : 35
+1 Row inserted ! 
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Add New Employee to Record          3 : Input Work Details          5 : Show Work Details           0 : Main Menu
+ 2 : Show Employee List                  4 : Input Employee Pay          6 : Generate Employee Bill
+ Enter Here ==> 2
+______________________________________________________________________
+                    ALL EMPLOYEES LIST
+----------------------------------------------------------------------
+E_ID    DEPT_NAME       E_NAME          PRODUCT_ID      RS_PRODUCTION
+----------------------------------------------------------------------
+1       POLISH          BABU LAL        COMMON          35
+2       WELDING         WELDER          COMMON          75
+3       WELDING         HELPER          COMMON          50
+4       Polish          Sourav Kumar    COMMON          35
+______________________________________________________________________
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Add New Employee to Record          3 : Input Work Details          5 : Show Work Details           0 : Main Menu
+ 2 : Show Employee List                  4 : Input Employee Pay          6 : Generate Employee Bill
+ Enter Here ==> 3
+
+ Enter Employee Name                           : Sourav Kumar
+ Enter Work weight/hours/no.of pcs             : 52.87
+ Enter Product Id                              : LG7
+ Enter Pay Amount to Worker                    : 500
+ Enter Current Date [Use Format : yyyy-mm-dd ] : 2023-06-23
+1 Row inserted ! 
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Add New Employee to Record          3 : Input Work Details          5 : Show Work Details           0 : Main Menu
+ 2 : Show Employee List                  4 : Input Employee Pay          6 : Generate Employee Bill
+ Enter Here ==> 4
+ Employee Name                            : Sourav Kumar
+ Pay Amount                               : 1000
+ Current Date [ Use Format : yyyy-mm-dd ] : 2023-06-23
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Add New Employee to Record          3 : Input Work Details          5 : Show Work Details           0 : Main Menu
+ 2 : Show Employee List                  4 : Input Employee Pay          6 : Generate Employee Bill
+ Enter Here ==> 5
+___________________________________________________________________________________________________________________
+                                             ALL EMPLOYEE'S WORK RECORD
+-------------------------------------------------------------------------------------------------------------------
+S_NO            E_NAME          ITEM_ID         WEIGHTo_HOURS_NO_OF_PCS TOTAL_AMT       PAID_AMT        DATE_
+-------------------------------------------------------------------------------------------------------------------
+4       BABU LAL                LG7             41.0                    1435.0          350.0           2022-07-13
+5       BABU LAL                LG55            54.0                    1890.0          1500.0          2022-07-18
+6       BABU LAL                ----            0.0                     0.0             200.0           2022-07-20
+7       BABU LAL                LG13            87.0                    3045.0          0.0             2022-07-22
+8       BABU LAL                ----            0.0                     0.0             2500.0          2022-07-24
+9       BABU LAL                LG4             36.0                    1260.0          0.0             2022-07-25
+10      BABU LAL                LG17            45.0                    1575.0          0.0             2022-07-27
+11      BABU LAL                LG4 LG55 LG7    95.0                    3325.0          500.0           2022-07-29
+12      BABU LAL                LG9             43.0                    1505.0          0.0             2022-07-30
+13      BABU LAL                ----            0.0                     0.0             500.0           2022-07-31
+14      BABU LAL                ----            0.0                     0.0             500.0           2022-08-01
+15      BABU LAL                ----            0.0                     0.0             100.0           2022-08-05
+16      BABU LAL                LG4 LG7         69.0                    2415.0          0.0             2022-08-07
+17      BABU LAL                LG55            28.0                    980.0           0.0             2022-08-09
+18      BABU LAL                THAKUR SAHAB    93.0                    3255.0          0.0             2022-08-09
+19      BABU LAL                LG4 LG55        49.0                    1715.0          1000.0          2022-08-09
+20      BABU LAL                LG7             69.0                    2415.0          0.0             2022-08-10
+22      WELDER                  LG              3.5                     262.5           0.0             2022-08-02
+23      WELDER                  LG              3.0                     225.0           0.0             2022-08-03
+24      WELDER                  LG              3.0                     225.0           0.0             2022-08-04
+25      WELDER                  LG              3.5                     262.5           0.0             2022-08-05
+26      WELDER                  LG              4.5                     337.5           0.0             2022-08-06
+27      WELDER                  LG              3.0                     225.0           0.0             2022-08-07
+28      WELDER                  LG              3.5                     262.5           0.0             2022-08-09
+29      WELDER                  ----            0.0                     0.0             -24.0           2022-08-09
+30      HELPER                  LG              8.0                     400.0           1075.0          2022-07-13
+31      HELPER                  LG              8.0                     400.0           0.0             2022-07-14
+32      HELPER                  LG              4.5                     225.0           0.0             2022-07-15
+33      HELPER                  LG              10.0                    500.0           0.0             2022-07-16
+34      HELPER                  LG              2.0                     100.0           0.0             2022-07-17
+35      HELPER                  LG              2.0                     100.0           0.0             2022-07-25
+36      HELPER                  LG              3.0                     150.0           0.0             2022-07-26
+37      HELPER                  LG              2.5                     125.0           0.0             2022-07-27
+38      HELPER                  LG              3.0                     150.0           0.0             2022-07-28
+39      HELPER                  LG              3.0                     150.0           0.0             2022-07-29
+40      HELPER                  LG              9.0                     450.0           0.0             2022-07-31
+41      HELPER                  LG              3.5                     175.0           0.0             2022-08-02
+42      HELPER                  LG              3.0                     150.0           0.0             2022-08-03
+43      HELPER                  LG              3.0                     150.0           30.0            2022-08-04
+44      HELPER                  LG              3.5                     175.0           0.0             2022-08-05
+45      HELPER                  LG              4.5                     225.0           0.0             2022-08-06
+46      HELPER                  LG              3.0                     150.0           0.0             2022-08-07
+47      HELPER                  LG              3.5                     175.0           0.0             2022-08-09
+48      Sourav Kumar            LG7             52.87                   1850.45         500.0           2023-06-23
+49      Sourav Kumar            ----            0.0                     0.0             1000.0          2023-06-23
+___________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Add New Employee to Record          3 : Input Work Details          5 : Show Work Details           0 : Main Menu
+ 2 : Show Employee List                  4 : Input Employee Pay          6 : Generate Employee Bill
+ Enter Here ==> 6
+_____________________________________________________________________________________
+                                   EMPLOYEE BILL
+                                                                             ।। 🙏  राधे राधे ।। जय श्री महाकाल  🙏 ।।
+_____________________________________________________________________________________
+ Employee Name : Sourav Kumar
+ From Date     : 2023-06-23
+_____________________________________________________________________________________
+PRODUCT_ID      WEIGHTorHOURSorNO_OF_PCS        WORK_AMOUNT     PAID     DATE
+-------------------------------------------------------------------------------------
+LG7             52.87                           1850.45         500.0    2023-06-23
+----            0.0                             0.0             1000.0   2023-06-23
+_____________________________________________________________________________________
+                TOTAL : WEIGHT/HOURS/PCS        WORK_AMOUNT     PAY     |  BALANCE  |
+------------------------------------------------------------------------|___________|
+                        52.87                   1850.45         1500.0  |  350.450  |
+                                                                        |___________|
+                                                         AUTHORISED BY:- Sourav Kumar
+                                                                        ( Shauraya )
+_____________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Add New Employee to Record          3 : Input Work Details          5 : Show Work Details           0 : Main Menu
+ 2 : Show Employee List                  4 : Input Employee Pay          6 : Generate Employee Bill
+ Enter Here ==> 0
+                                                                 MAIN MENU 
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Visit Employee
+ 2 : Visit Parties
+ 0 : Exit
+ Enter Here ==> 2
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Add Sale Details                            3 : Show All Sale Records               5 : Generate Party Bill
+ 2 : Input Brass/Paymant ( GIVEN BY PARTY )      4 : Show Sale Record of a Party         0 : Main Menu
+ Enter Here ==> 1
+ Enter Party Name                         : Manoj Agarwal
+ Enter Product Id                         : LG12
+ Enter Party Brass ( Provided Us )
+ [ NOTE : If not provided then use '0' ]  : 0
+ Enter Production Price ( per kg )        : 725
+ Enter Weight ( Product )                 : 45.98
+ Enter Paid Amount                        : 5000
+ Current Date [ Use Format : yyyy-mm-dd ] : 2023-06-23
+1 Row inserted to Work Record ! 
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Add Sale Details                            3 : Show All Sale Records               5 : Generate Party Bill
+ 2 : Input Brass/Paymant ( GIVEN BY PARTY )      4 : Show Sale Record of a Party         0 : Main Menu
+ Enter Here ==> 2
+ Enter Pay Type (Press : ' 1 ' or ' AMOUNT PAID ' ,  ' 2 ' or ' BRASS ' ) : 2
+ Enter Party Name                         : Manoj Agarwal
+ Enter Party Brass ( Provided Us )        : 25
+ Current Date [ Use Format : yyyy-mm-dd ] : 2023-06-23
+1 Row inserted to Work Record ! 
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Add Sale Details                            3 : Show All Sale Records               5 : Generate Party Bill
+ 2 : Input Brass/Paymant ( GIVEN BY PARTY )      4 : Show Sale Record of a Party         0 : Main Menu
+ Enter Here ==> 2
+ Enter Pay Type (Press : ' 1 ' or ' AMOUNT PAID ' ,  ' 2 ' or ' BRASS ' ) : 1
+ Enter Party Name                         : Manoj Agarwal
+ Enter Paid Amount                        : 1000
+ Current Date [ Use Format : yyyy-mm-dd ] : 2023-06-23
+1 Row inserted to Work Record ! 
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Add Sale Details                            3 : Show All Sale Records               5 : Generate Party Bill
+ 2 : Input Brass/Paymant ( GIVEN BY PARTY )      4 : Show Sale Record of a Party         0 : Main Menu
+ Enter Here ==> 3
+___________________________________________________________________________________________________________
+                                             ALL PARTY RECORDS
+-----------------------------------------------------------------------------------------------------------
+PARTY                   PRODUCT_ID              P_BRASS   RS     WEIGHT  PAYABLE_AMT    PAID     DATE
+-----------------------------------------------------------------------------------------------------------
+GUPTA JI VRINDAVAN      LG55 LG7                0.0       725.0   87.32  63307.0        60000.0  2022-08-22
+MANOJ AGARWAL           SHIVLING                100.0     195.0   1.0    195.0  	0.0   	 2022-07-23
+MANOJ AGARWAL           LG55            	0.0       195.0   22.45  4377.75        0.0      2022-07-25
+MANOJ AGARWAL           LG7             	0.0       195.0   43.35  8453.25        0.0      2022-07-30
+MANOJ AGARWAL           LG13            	0.0       195.0   69.0   13455.0        0.0      2022-08-07
+MANOJ AGARWAL           ----                    0.0       0.0     0.0    0.0            20000.0  2022-08-07
+MANOJ AGARWAL           ----                    6.49      0.0     0.0    0.0            0.0      2022-07-22
+THAKUR SAHAB            ALL (LG4-LG13)  	0.0       710.0   93.39  66306.9        10000.0  2022-07-30
+THAKUR SAHAB            ----                    0.0       0.0     0.0    0.0            -700.0   2022-08-09
+Manoj Agarwal           LG12            	0.0       725.0   45.98  33335.5        5000.0   2023-06-23
+Manoj Agarwal           ----                    25.0      0.0     0.0    0.0            0.0      2023-06-23
+Manoj Agarwal           ----                    0.0       0.0     0.0    0.0            1000.0   2023-06-23
+___________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Add Sale Details                            3 : Show All Sale Records               5 : Generate Party Bill
+ 2 : Input Brass/Paymant ( GIVEN BY PARTY )      4 : Show Sale Record of a Party         0 : Main Menu
+ Enter Here ==> 4
+ Party Name  : Manoj Agarwal
+ From Date   : ALL 
+____________________________________________________________________________________________________________
+PARTY                   PRODUCT_ID              P_BRASS   RS     WEIGHT  PAYABLE_AMT    PAID     DATE
+------------------------------------------------------------------------------------------------------------
+MANOJ AGARWAL           SHIVLING                100.0     195.0   1.0    195.0  0.0     0.0    	 2022-07-23
+MANOJ AGARWAL           LG55            	0.0       195.0   22.45  4377.75        0.0      2022-07-25
+MANOJ AGARWAL           LG7             	0.0       195.0   43.35  8453.25        0.0      2022-07-30
+MANOJ AGARWAL           LG13            	0.0       195.0   69.0   13455.0        0.0      2022-08-07
+MANOJ AGARWAL           ----                    0.0       0.0     0.0    0.0            20000.0  2022-08-07
+MANOJ AGARWAL           ----                    6.49      0.0     0.0    0.0            0.0      2022-07-22
+Manoj Agarwal           LG12            	0.0       725.0   45.98  33335.5        5000.0   2023-06-23
+Manoj Agarwal           ----                    25.0      0.0     0.0    0.0            0.0      2023-06-23
+Manoj Agarwal           ----                    0.0       0.0     0.0    0.0            1000.0   2023-06-23
+____________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Add Sale Details                            3 : Show All Sale Records               5 : Generate Party Bill
+ 2 : Input Brass/Paymant ( GIVEN BY PARTY )      4 : Show Sale Record of a Party         0 : Main Menu
+ Enter Here ==> 5
+____________________________________________________________________________________________________________
+                                                    BILL
+                                    ।। 🙏  राधे राधे ।। जय श्री महाकाल  🙏 ।।
+------------------------------------------------------------------------------------------------------------
+ Party Name  : Manoj Agarwal
+ From Date   : ALL 
+____________________________________________________________________________________________________________
+PARTY                   PRODUCT_ID              P_BRASS   RS     WEIGHT  PAYABLE_AMT    PAID     DATE
+------------------------------------------------------------------------------------------------------------
+MANOJ AGARWAL           SHIVLING                100.0     195.0   1.0    195.0  0.0     0.0	 2022-07-23
+MANOJ AGARWAL           LG55            	0.0       195.0   22.45  4377.75        0.0      2022-07-25
+MANOJ AGARWAL           LG7             	0.0       195.0   43.35  8453.25        0.0      2022-07-30
+MANOJ AGARWAL           LG13            	0.0       195.0   69.0   13455.0        0.0      2022-08-07
+MANOJ AGARWAL           ----                    0.0       0.0     0.0    0.0            20000.0  2022-08-07
+MANOJ AGARWAL           ----                    6.49      0.0     0.0    0.0            0.0      2022-07-22
+Manoj Agarwal           LG12            	0.0       725.0   45.98  33335.5        5000.0   2023-06-23
+Manoj Agarwal           ----                    25.0      0.0     0.0    0.0            0.0      2023-06-23
+Manoj Agarwal           ----                    0.0       0.0     0.0    0.0            1000.0   2023-06-23
+____________________________________________________________________________________________________________
+                                        TOTAL : P_BRASS          WEIGHT  PAYABLE_AMT    PAID
+------------------------------------------------------------------------------------------------------------
+                                                131.49           181.78  59816.5        26000.0
+
+
+ REMAINING PARTY BRSSS : -50.29
+ REMAINING PAY         : 33816.5
+                                                                                AUTHORISED BY:- Sourav Kumar
+                                                                                                ( Shauraya )
+____________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Add Sale Details                            3 : Show All Sale Records               5 : Generate Party Bill
+ 2 : Input Brass/Paymant ( GIVEN BY PARTY )      4 : Show Sale Record of a Party         0 : Main Menu
+ Enter Here ==> 0
+                                                                 MAIN MENU 
+____________________________________________________________________________________________________________________________________________________
+
+
+ PRESS FOLLOWING DIGIT TO PERFORM AN OPERATION
+ 1 : Visit Employee
+ 2 : Visit Parties
+ 0 : Exit
+ Enter Here ==> 0
+ Great Job !! Thank you for using me. 
+** Bye ** 
+____________________________________________________________________________________________________________________________________________________
